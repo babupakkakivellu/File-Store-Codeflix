@@ -92,7 +92,7 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Join Fast', url='https://t.me/AnimeKurrollu)
+                    InlineKeyboardButton('Join Fast', url='https://t.me/AnimeKurrollu')
                 ]
             ]
         )
